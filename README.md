@@ -9,7 +9,7 @@ Otomatik çiçek sulama sistemi toprak nem sensörü ile toprağın nemini ölç
 - Su Pompası
 
 ## Devre Şeması
-![şema](https://photos.app.goo.gl/UpgSmXUZcCrUrFPW7)
+![şema]([https://photos.app.goo.gl/UpgSmXUZcCrUrFPW7](https://lh3.googleusercontent.com/pw/AM-JKLX0yR0AVqrS3U3uYQbZ6vrKbA-qw69g373MpymWZ8Sct_tWxNFQqSo0ylj2nJntgkABG4GzeAPdT_jwh-BFVs9Oa1D6EgGg41ehocfQdAD8uYNuLTlGsdnoFa7U9yw54Qv62-6Ol4JvZk5w9cVVqvSd=w877-h619-no?authuser=0))
 ## Arduino Yazılımı
 
 ## LabVIEW Diyagramı
